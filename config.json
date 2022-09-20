@@ -1,0 +1,23 @@
+{
+  "developerGuild": "429089094690275338",
+  "chDontScan": [
+    "765576964081319976", "818290104053006336"
+  ],
+  "activities_list": [
+    "CHUNG HA 청하 Dream of You", 
+    "Music",
+    "Let's Rock Baby!",
+    "CHUNG HA 청하 Dream of You"
+],
+    "nodes": [
+        {
+            "id": "main",
+            "host": "lavalink-replit.johnnybosak.repl.co",
+            "port": 443,
+            "password": "RaraGromServer ",
+            "retryAmount": 15, 
+            "retryDelay": 6000, 
+            "secure": true
+        }
+    ]
+}
